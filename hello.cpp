@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-    std::cout << "What a world this is!" << std::endl;
+    std::cout << "Reality is a lie. Buy gold, buy!" << std::endl;
 }
